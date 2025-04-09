@@ -10,6 +10,11 @@ namespace PRUEBA
     {
         static void Main(string[] args)
         {
+            Console.Write("CLASE C");
+            Console.Write("clase c");
+            Console.ReadKey();
+
+
         }
     }
 }
